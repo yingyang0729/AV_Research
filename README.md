@@ -48,11 +48,6 @@ To build and deliver the multimedia content in this application, I have used the
   
   3. HTML5 Video and Audio Elements: I have utilized HTML5 video and audio elements to display the multimedia.
   
-  4. MediaElement.js: I have used MediaElement.js to enhance the multimedia controls and add support for closed captioning.
-  
-  5. WebVTT: I have used WebVTT to provide closed captioning for the video.
-  
-  6. JSON: I have used JSON to provide the transcript for the audio.
 
 ## License
 TODO: Fanshawe College-Interative Media Design-Level 4
